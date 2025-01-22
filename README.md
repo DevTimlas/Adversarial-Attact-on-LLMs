@@ -1,4 +1,4 @@
-# Adversarial-Attact-on-LLMs (FGSM and PGD Training)
+# Adversarial-Attact-on-LLMs (FGSM and PGD)
 
 https://colab.research.google.com/drive/1AL2aTBnZdf_pI3KlINf087SThJrRuSlx?usp=sharing #### Train
 
